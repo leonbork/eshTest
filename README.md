@@ -13,3 +13,9 @@ This project automates a test for the login functionality using Selenium and Pyt
 
    ```bash
    pip install -r requirements.txt
+
+## Run
+
+1. Find tests folder
+2. Open test_login.py
+3. Run test_login_functionality
